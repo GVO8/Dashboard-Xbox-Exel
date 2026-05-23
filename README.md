@@ -14,6 +14,10 @@ Ferramenta exel
 Qual a diferença entre dados x informação
 Como trabalhar com Big Numbers em uma visualização
 Tabelas dinâmicas do exel
+
+### Print da ferramenta:
+<img width="1542" height="741" alt="image" src="https://github.com/user-attachments/assets/a3eed7d0-73c8-4932-8fd4-c7b8c68857ea" />
+
 Gráficos dinâmicos do exel
 Quais as informações necessárias dependendo do alvo do dashboard
 Boas práticas ao montar uma visualização
